@@ -19,6 +19,10 @@ To write the python program for simulating ping command.
 11.Stop the program.
 ```
 # PROGRAM :
+```
+Developed By: Parshwanath M
+Register Number: 212221230073
+```
 ## CLIENT :
 ```
 
